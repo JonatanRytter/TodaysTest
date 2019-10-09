@@ -3,7 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+        // purple is a fruit
         System.out.println("Wauv");
-	// write your code here
     }
+
 }
